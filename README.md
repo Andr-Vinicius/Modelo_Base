@@ -5,3 +5,4 @@ Seguindo as aulas do curso de JS que eu estou fazendo, criei esse projeto com o 
 -> Para executar basta baixar o repositório, entrar na pasta pelo terminal/VSCode e executar o tão famoso npm start. <br>
 -> Podem utilizar a vontade, caso queiram.
 
+"# Consumindo_API" 
